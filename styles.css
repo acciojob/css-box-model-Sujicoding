@@ -1,8 +1,12 @@
-div{
+.text{
     background-color: lightblue;
     border: 15px solid blue;
 	padding: 50px;
 	text-color: black;
 	width: 300px;
-margin: 20px;
-   }
+    margin: 20px;
+}
+.margin{
+	border: 1px solid black;
+	
+}
